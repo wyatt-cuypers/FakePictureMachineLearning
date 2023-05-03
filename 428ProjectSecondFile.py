@@ -92,7 +92,7 @@ if __name__ == '__main__':
     criterion = nn.BCELoss()
 
     # 5. Train the DCGAN
-    epochs = 25
+    epochs = 150
     lr = 0.0002
     beta1 = 0.5
 
